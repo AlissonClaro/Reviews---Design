@@ -33,16 +33,17 @@ I.	→ Negativo, frustração. Erro no pagamento/limitação de pagamento.
 Clusterização de Problemas:
 
 1.	Problemas de Software:
+   
 I.	Review 2 (erro → perda de dados)
 II.	Review 3 (interface)
 III.	Review 6 (interface)
 IV.	Review 7 (erro → perda de dados)
 V.	Review 10 (erro → pagamento)
 
-2.	Problemas de suporte:
+3.	Problemas de suporte:
 I.	Review 9 (pós-venda)
 
-3.	Problemas de entrega:
+4.	Problemas de entrega:
 I.	Review 5 (atraso)
 
 ⇒ 71,5% são problemas de software
@@ -56,17 +57,21 @@ Não totalmente.
 
 •	Houve alguma interpretação errada? 
 Não, somente não foi completa.
+
 2. Vantagens da IA: 
 •	O que a IA fez que seria muito difícil ou demorado de fazer manualmente? (Pensem
 em escala e velocidade). 
 Analise em massa e organização em tabelas.
+
 3. Limitações da IA: 
 •	O que a IA não conseguiu identificar ou interpretar? (Pensem em contexto, ironia,
 sentimentos mistos). 
 Ela não conseguiu identificar sentimentos específicos, houve ambiguidade em alguns feedbacks.(exemplo feedback 9)
+
 4. O Papel do Humano: 
 •	O que o Designer / Analista de UX precisa fazer depois que a IA gera o resultado? 
 Analisar e verificar os dados do resultado da IA.
+
 
 •	Qual o valor que o profissional humano adiciona?
 Analise especifica.
