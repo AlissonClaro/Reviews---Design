@@ -39,3 +39,6 @@
 
 ⇒ 71,5% são problemas de software  
 Usuários recorrentes são os mais afetados.
+
+**Resposta IA**
+https://gemini.google.com/share/3539fbc5afb4
